@@ -3,6 +3,7 @@ from playwright.async_api import async_playwright
 import random
 import time
 from datetime import datetime
+print("✅ Script lancé !")
 
 SHOP_URL = "https://ton-shop.myshopify.com"  # Remplace par ton lien Shopify
 
